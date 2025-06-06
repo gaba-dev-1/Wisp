@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 Liquisystems
+# 🔍 Exploring Systems
 
 **Algorithms that improve themselves**
 
