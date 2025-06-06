@@ -99,5 +99,8 @@ func (am *AdaptiveMethod) AnalyzeAndLearn(
 }
 ```
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3268181/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6436976/
+
 </div>
 
