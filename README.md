@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 Exploring Systems
+# 🔮 Exploring Systems
 
 **Algorithms that improve themselves**
 
