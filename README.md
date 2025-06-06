@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 Prism
+# 🔍 Liquisystems
 
 **Algorithms that improve themselves**
 
