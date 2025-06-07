@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◈ Le Mot ◈
+# ◈ La Mue ◈
 ## *Évolution Totale Résolue*
 
 ---
