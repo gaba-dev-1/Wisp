@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◈ La Mue ◈
+# ◈ La Mue (||h||) ◈
 ## *Évolution Totale Résolue*
 
 ---
