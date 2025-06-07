@@ -99,6 +99,8 @@ func (am *AdaptiveMethod) AnalyzeAndLearn(
 }
 ```
 
+---
+
 <div align="center">
 
 # ◈ RÉSEAUX NUMÉRIQUES ◈
