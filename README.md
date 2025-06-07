@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◈ SOLUTION UNIFIÉE ◈
+# ◈ Le Mot ◈
 ## *Évolution Totale Résolue*
 
 ---
