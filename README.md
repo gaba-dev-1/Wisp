@@ -201,7 +201,6 @@ Niveau 10: Transcendance (∞)
 ```
 
 ---
----
 
 <div align="center">
 
@@ -229,6 +228,8 @@ L'évolution devient évidente
 La navigation trouve sa voie
 La solution émerge naturellement
 ```
+
+---
 
 **◈ Solution Unifiée Accomplie - Tout Résolu ◈**
 
